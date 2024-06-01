@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Public/Documents/Github/BECHESS/BECHESS/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/Public/Documents/Github/BECHESS/BECHESS/Content/VRTemplate/Input/MoveX.uasset",
+				"C:/Users/Public/Documents/Github/BECHESS/BECHESS/Content/VRTemplate/Input/Actions/MoveX.uasset",
+				"C:/Users/Public/Documents/Github/BECHESS/BECHESS/Content/VRTemplate/Input/Actions/MoveY.uasset",
+				"C:/Users/Public/Documents/Github/BECHESS/BECHESS/Content/VRTemplate/Blueprints/VRPawn.uasset",
+				"C:/Users/Public/Documents/Github/BECHESS/BECHESS/Content/VRTemplate/Input/IMC_Default.uasset",
+				"C:/Users/Public/Documents/Github/BECHESS/BECHESS/Content/VRTemplate/Maps/VRTemplateMap.umap"
+			]
+		}
+	]
+}
